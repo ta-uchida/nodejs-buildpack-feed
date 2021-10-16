@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ta-uchida.github.io/nodejs-buildpack-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-15T00:40:00.688Z</updated>
-    <generator>osmosfeed 1.11.2</generator>
+    <updated>2021-10-16T00:41:45.227Z</updated>
+    <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://ta-uchida.github.io/nodejs-buildpack-feed/index.html"/>
     <link rel="self" href="https://ta-uchida.github.io/nodejs-buildpack-feed/feed.atom"/>
     <entry>
