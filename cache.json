@@ -13,15 +13,6 @@
           "publishedOn": "2021-10-18T17:57:35.000Z",
           "wordCount": 383,
           "title": "v1.7.63"
-        },
-        {
-          "id": "https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.62",
-          "author": null,
-          "description": "Update default node version to 16.x\n#374)\nAdd yarn 1.22.15, remove yarn 1.22.10\nhttps://www.pivotaltracker.com/story/show/179761027)\nhttps://www.pivotaltracker.com/story/show/179753501)\nhttps://www.pivotaltracker.com/story/show/179012448)\nAdd node 14.18.0, remove node 14.17.5\nhttps://www.pivotaltracker.com/story/show/179736417)\nAdd node 16.10.0, remove node 16.7.0\nhttps://www.pivotaltracker.com/story/show/179678847)\nhttps://www.pivotaltracker.com/story/show/179544287)\nhttps://www.pivotaltracker.com/story/show/179491957)\nPackaged binaries:\nname\nversion\ncf_stacks\n\n\n\n\nnode\n12.22.5\ncflinuxfs3\n\n\nnode\n12.22.6\ncflinuxfs3\n\n\nnode\n14.17.6\ncflinuxfs3\n\n\nnode\n14.18.0\ncflinuxfs3\n\n\nnode\n15.13.0\ncflinuxfs3\n\n\nnode\n15.14.0\ncflinuxfs3\n\n\nnode\n16.8.0\ncflinuxfs3\n\n\nnode\n16.10.0\ncflinuxfs3\n\n\nyarn\n1.22.15\ncflinuxfs3\n\n\n\nDefault binary versions:\nname\nversion\n\n\n\n\nnode\n16.x\n\n\n\n\nUncached buildpack SHA256: b579e09c8398830cde18906d574ac6100dae4ed22089d6dbfb0765caf696f4b9",
-          "link": "https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.62",
-          "publishedOn": "2021-09-30T15:50:15.000Z",
-          "wordCount": 371,
-          "title": "v1.7.62"
         }
       ]
     }
