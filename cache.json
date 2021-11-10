@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/cloudfoundry/nodejs-buildpack/releases",
       "articles": [
         {
+          "id": "https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.64",
+          "author": null,
+          "description": "Add node 16.13.0, remove node 16.10.0\nhttps://www.pivotaltracker.com/story/show/180088515)\nhttps://www.pivotaltracker.com/story/show/180015753)\nPackaged binaries:\nname\nversion\ncf_stacks\n\n\n\n\nnode\n12.22.6\ncflinuxfs3\n\n\nnode\n12.22.7\ncflinuxfs3\n\n\nnode\n14.18.0\ncflinuxfs3\n\n\nnode\n14.18.1\ncflinuxfs3\n\n\nnode\n16.11.1\ncflinuxfs3\n\n\nnode\n16.13.0\ncflinuxfs3\n\n\nyarn\n1.22.17\ncflinuxfs3\n\n\n\nDefault binary versions:\nname\nversion\n\n\n\n\nnode\n16.x\n\n\n\n\nUncached buildpack SHA256: e482691feba90a37023340e7a1686f7e56c6a137500111edbf5cd597e885002f",
+          "link": "https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.64",
+          "publishedOn": "2021-11-09T15:41:19.000Z",
+          "wordCount": 330,
+          "title": "v1.7.64"
+        },
+        {
           "id": "https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.63",
           "author": null,
           "description": "Remove support for deprecated version 15.x\n#386\nhttps://github.com/nodejs/Release)\nAdd yarn 1.22.17, remove yarn 1.22.15\nhttps://www.pivotaltracker.com/story/show/179962758)\nhttps://www.pivotaltracker.com/story/show/179961794)\nAdd node 16.11.1, remove node 16.8.0\nhttps://www.pivotaltracker.com/story/show/179908280)\nhttps://www.pivotaltracker.com/story/show/179869844)\nAdd node 12.22.7, remove node 12.22.5\nhttps://www.pivotaltracker.com/story/show/179908290)\nAdd node 14.18.1, remove node 14.17.6\nhttps://www.pivotaltracker.com/story/show/179907722)\nPackaged binaries:\nname\nversion\ncf_stacks\n\n\n\n\nnode\n12.22.6\ncflinuxfs3\n\n\nnode\n12.22.7\ncflinuxfs3\n\n\nnode\n14.18.0\ncflinuxfs3\n\n\nnode\n14.18.1\ncflinuxfs3\n\n\nnode\n16.10.0\ncflinuxfs3\n\n\nnode\n16.11.1\ncflinuxfs3\n\n\nyarn\n1.22.17\ncflinuxfs3\n\n\n\nDefault binary versions:\nname\nversion\n\n\n\n\nnode\n16.x\n\n\n\n\nUncached buildpack SHA256: 5384c2a335049702f88482b121e55992dfc9607d1162f5dd3eac33cd5b223add",
