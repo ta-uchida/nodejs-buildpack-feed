@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ta-uchida.github.io/nodejs-buildpack-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-17T00:37:16.809Z</updated>
+    <updated>2021-11-18T00:38:27.501Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://ta-uchida.github.io/nodejs-buildpack-feed/index.html"/>
     <link rel="self" href="https://ta-uchida.github.io/nodejs-buildpack-feed/feed.atom"/>
@@ -72,86 +72,6 @@ node
 
 
 Uncached buildpack SHA256: e482691feba90a37023340e7a1686f7e56c6a137500111edbf5cd597e885002f]]></summary>
-        <author>
-            <name>Release notes from nodejs-buildpack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.63]]></title>
-        <id>https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.63</id>
-        <link href="https://github.com/cloudfoundry/nodejs-buildpack/releases/tag/v1.7.63"/>
-        <updated>2021-10-18T17:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Remove support for deprecated version 15.x
-#386
-https://github.com/nodejs/Release)
-Add yarn 1.22.17, remove yarn 1.22.15
-https://www.pivotaltracker.com/story/show/179962758)
-https://www.pivotaltracker.com/story/show/179961794)
-Add node 16.11.1, remove node 16.8.0
-https://www.pivotaltracker.com/story/show/179908280)
-https://www.pivotaltracker.com/story/show/179869844)
-Add node 12.22.7, remove node 12.22.5
-https://www.pivotaltracker.com/story/show/179908290)
-Add node 14.18.1, remove node 14.17.6
-https://www.pivotaltracker.com/story/show/179907722)
-Packaged binaries:
-name
-version
-cf_stacks
-
-
-
-
-node
-12.22.6
-cflinuxfs3
-
-
-node
-12.22.7
-cflinuxfs3
-
-
-node
-14.18.0
-cflinuxfs3
-
-
-node
-14.18.1
-cflinuxfs3
-
-
-node
-16.10.0
-cflinuxfs3
-
-
-node
-16.11.1
-cflinuxfs3
-
-
-yarn
-1.22.17
-cflinuxfs3
-
-
-
-Default binary versions:
-name
-version
-
-
-
-
-node
-16.x
-
-
-
-
-Uncached buildpack SHA256: 5384c2a335049702f88482b121e55992dfc9607d1162f5dd3eac33cd5b223add]]></summary>
         <author>
             <name>Release notes from nodejs-buildpack</name>
         </author>
